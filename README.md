@@ -26,6 +26,3 @@ Hello, I am Full Stack! I have worked around with various business domain like, 
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/OmkarDeshmukhIN) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
